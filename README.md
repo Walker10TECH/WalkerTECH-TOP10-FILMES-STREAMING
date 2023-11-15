@@ -2,6 +2,7 @@
 O projeto consiste em criar um layout simples de um site de streaming de filmes que exibe os top 10 filmes das principais plataformas (Netflix, Amazon Prime Video e Disney+). Utilizando HTML, CSS e JavaScript, o site apresenta uma estrutura organizada, com um cabeçalho destacado e seções para cada plataforma de streaming.
 
 Componentes Principais:
+
 HTML: Responsável pela estrutura básica da página, incluindo seções para cada plataforma de streaming, listas de filmes e carregamento dos scripts.
 
 CSS: Define o estilo visual do site, incluindo a aparência, disposição dos elementos, formatação de texto e imagens de fundo.
