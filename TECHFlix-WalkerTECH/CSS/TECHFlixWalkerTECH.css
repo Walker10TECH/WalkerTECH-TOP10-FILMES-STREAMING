@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://th.bing.com/th/id/OIG.23k1jN.LfSijKhxupbZv?pid=ImgGn&w=1024&h=1024&rs=1'); /* Sua imagem de fundo */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.7); /* Fundo escuro semi-transparente */
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.platform {
+  flex: 1;
+  margin: 0 10px;
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Borda branca transparente */
+  border-radius: 5px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5); /* Fundo escuro semi-transparente */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra */
+}
+
+.movie-list li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.movie-list img {
+  width: 50px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.movie-list span {
+  font-weight: bold; /* Define o texto em negrito */
+}
