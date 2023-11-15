@@ -15,16 +15,22 @@ Organização por Plataforma: Os filmes são categorizados por plataforma, garan
 
 Estilo Responsivo: O layout é projetado para ser responsivo, garantindo uma boa experiência de usuário em dispositivos móveis e desktops.
 
-Destaque nos Títulos: Os títulos dos filmes são exibidos em negrito para se destacarem na lista.
+Destaque nos Títulos: 
+Os títulos dos filmes são exibidos em negrito para se destacarem na lista.
 Detalhes Técnicos:
 
 HTML: Estrutura básica da página, criação de seções, listas e inclusão dos scripts.
+
 CSS: Estilização visual, definição de cores, fontes, tamanhos e disposição dos elementos.
+
 JavaScript: População dinâmica das listas de filmes, criação de elementos HTML, exibição de imagens e títulos.
 
 Possíveis Melhorias Futuras:
 
 Adição de Mais Detalhes: Inclusão de descrições dos filmes, trailers, classificações, entre outros detalhes.
+
 Funcionalidade de Busca: Implementação de um recurso de busca para encontrar filmes específicos.
+
 Personalização do Usuário: Adição de recursos para os usuários salvarem listas ou marcarem filmes vistos.
+
 O projeto WalkerTECH - Top 10 Filmes de Streaming serve como uma base inicial para um site de streaming de filmes, podendo ser expandido e aprimorado com mais funcionalidades e informações para proporcionar uma melhor experiência ao usuário.
